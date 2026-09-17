@@ -1,5 +1,5 @@
 function checkLogin(user, pass) {
-    if (user === 'admin' && pass === '1234') {
+    if (user === 'admin' && pass === '123') {
         return true;
     }
     return false;
